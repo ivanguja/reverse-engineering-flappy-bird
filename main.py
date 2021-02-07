@@ -11,7 +11,7 @@ while True:
            sys.exit()
             
     pygame.display.update()
-
+    clock.tick(120)
 
 
 
